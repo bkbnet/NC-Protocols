@@ -1,0 +1,5 @@
+{
+  "name": "NoteSage: AI Academic Assistant",
+  "description": "Upload your class PDF notes and turn them into an interactive knowledge base. NoteSage uses Gemini to answer questions strictly based on your class content, providing source context and sharing capabilities.",
+  "requestFramePermissions": []
+}
